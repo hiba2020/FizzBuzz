@@ -40,7 +40,7 @@ public class FizzBuzz {
 
 	@Override
 	public String toString() {
-		return "Fizz_Buzz [" + fizzBuzzList + "]";
+		return "FizzBuzz [" + fizzBuzzList + "]";
 	}
 
 }
